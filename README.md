@@ -7,4 +7,5 @@ Some output: https://imgur.com/a/PWBqKjn
 neato
 
 Code originally from here: https://www.tensorflow.org/tutorials/generative/deepdream
-I made numerous changes to it...
+
+I made numerous changes to the base code set...
